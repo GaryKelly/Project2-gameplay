@@ -1,0 +1,22 @@
+﻿  Game.cpp
+c:\users\gary\desktop\project2-gameplay\sfmlopengl\game.cpp(442): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  SFMLOpenGL.vcxproj -> C:\Users\Gary\Desktop\Project2-gameplay\Debug\SFMLOpenGL.exe
+  C:\SFML-2.4.2\bin\openal32.dll
+  C:\SFML-2.4.2\bin\sfml-audio-2.dll
+  C:\SFML-2.4.2\bin\sfml-audio-d-2.dll
+  C:\SFML-2.4.2\bin\sfml-graphics-2.dll
+  C:\SFML-2.4.2\bin\sfml-graphics-d-2.dll
+  C:\SFML-2.4.2\bin\sfml-network-2.dll
+  C:\SFML-2.4.2\bin\sfml-network-d-2.dll
+  C:\SFML-2.4.2\bin\sfml-system-2.dll
+  C:\SFML-2.4.2\bin\sfml-system-d-2.dll
+  C:\SFML-2.4.2\bin\sfml-window-2.dll
+  C:\SFML-2.4.2\bin\sfml-window-d-2.dll
+  11 File(s) copied
+  C:\openglstuff\glew-2.1.0\bin\Release\Win32\glew32.dll
+  C:\openglstuff\glew-2.1.0\bin\Release\Win32\glewinfo.exe
+  C:\openglstuff\glew-2.1.0\bin\Release\Win32\visualinfo.exe
+  3 File(s) copied
